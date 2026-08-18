@@ -1830,7 +1830,72 @@
     "widget_46": {
       "uri": "widgets/arcgis/basemap-gallery/",
       "version": "1.18.0",
-      "config": {},
+      "config": {
+        "basemapsType": "CUSTOM",
+        "customBasemaps": [
+          {
+            "id": "2d1c2200-9b0b-11f1-aed0-ef7115580574-basemap-url",
+            "title": "World_Imagery",
+            "layerUrls": [
+              "https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer"
+            ],
+            "thumbnail": {
+              "url": "${appResourceUrl}/images/widget_46/1787060785521.png",
+              "originalUrl": "${appResourceUrl}/images/widget_46/1787060785521.png",
+              "fileName": "1787060785521.png",
+              "originalName": "Wimagery.png",
+              "imgSourceType": "BY_UPLOAD",
+              "fileFormat": "image/png",
+              "originalId": "1787060785521",
+              "originalWidth": 262,
+              "originalHeight": 173
+            }
+          },
+          {
+            "id": "52c47bb0-9b0b-11f1-aed0-ef7115580574-basemap-url",
+            "title": "World_Street",
+            "layerUrls": [
+              "https://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer"
+            ],
+            "thumbnail": {
+              "url": "${appResourceUrl}/images/widget_46/1787060832423.png",
+              "originalUrl": "${appResourceUrl}/images/widget_46/1787060832423.png",
+              "fileName": "1787060832423.png",
+              "originalName": "Wstreet.png",
+              "imgSourceType": "BY_UPLOAD",
+              "fileFormat": "image/png",
+              "originalId": "1787060832423",
+              "originalWidth": 251,
+              "originalHeight": 170
+            }
+          },
+          {
+            "id": "65f16360-9b0b-11f1-aed0-ef7115580574-basemap-url",
+            "title": "World_Topo_Map",
+            "layerUrls": [
+              "https://services.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer"
+            ],
+            "thumbnail": {
+              "url": "${appResourceUrl}/images/widget_46/1787060864535.png",
+              "originalUrl": "${appResourceUrl}/images/widget_46/1787060864535.png",
+              "fileName": "1787060864535.png",
+              "originalName": "Wtopo.png",
+              "imgSourceType": "BY_UPLOAD",
+              "fileFormat": "image/png",
+              "originalId": "1787060864535",
+              "originalWidth": 247,
+              "originalHeight": 171
+            }
+          },
+          {
+            "id": "710b0850-9b0b-11f1-aed0-ef7115580574-basemap-url",
+            "title": "World_Hillshade",
+            "layerUrls": [
+              "https://services.arcgisonline.com/arcgis/rest/services/Elevation/World_Hillshade/MapServer"
+            ]
+          }
+        ]
+      },
       "id": "widget_46",
       "useMapWidgetIds": [
         "widget_23"
@@ -3460,7 +3525,7 @@
       }
     }
   },
-  "timestamp": 1787060008205,
+  "timestamp": 1787060894159,
   "sharedThemeVariables": {
     "header": {},
     "body": {},
