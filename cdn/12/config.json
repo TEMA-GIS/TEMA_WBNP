@@ -438,6 +438,12 @@
           "widgetId": "widget_64",
           "bbox": {},
           "setting": {}
+        },
+        "5": {
+          "type": "WIDGET",
+          "widgetId": "widget_67",
+          "bbox": {},
+          "setting": {}
         }
       },
       "type": "FIXED",
@@ -447,7 +453,8 @@
         "1",
         "4",
         "2",
-        "3"
+        "3",
+        "5"
       ]
     },
     "layout_92": {
@@ -1424,7 +1431,6 @@
       "version": "1.18.0",
       "config": {
         "text": "<p><strong style=\"color: var(--light); font-size: 20px;\">﻿TEMA WBNP</strong></p>",
-        "placeholder": "<p><strong style=\"font-size: 20px; color: var(--light);\">Double click to edit text</strong></p>",
         "style": {
           "wrap": false
         }
@@ -2189,8 +2195,7 @@
       "uri": "widgets/common/text/",
       "version": "1.18.0",
       "config": {
-        "text": "<p><span style=\"font-size: 18px;\">Lorem ipsum dolor sit amet</span></p><p><br></p><p><img src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfNjE1XzIxODEpIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTE2IDBIMFYxNkgxNlYwWk03LjUgNS43NUM3LjUgNi4xNjQyMSA3LjE2NDIxIDYuNSA2Ljc1IDYuNUM2LjMzNTc5IDYuNSA2IDYuMTY0MjEgNiA1Ljc1QzYgNS4zMzU3OSA2LjMzNTc5IDUgNi43NSA1QzcuMTY0MjEgNSA3LjUgNS4zMzU3OSA3LjUgNS43NVpNNy4yODU3MSA5Ljg0NDM1TDUuNSA3LjUzMzI0TDMgMTAuOTk5OUgxM0w5Ljc4NTcyIDYuMzc3NjlMNy4yODU3MSA5Ljg0NDM1WiIgZmlsbD0iI2NjYyIvPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9ImNsaXAwXzYxNV8yMTgxIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiM0NDQiLz48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=\" data-name=\"svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfNjE1XzIxODEpIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTE2IDBIMFYxNkgxNlYwWk03LjUgNS43NUM3LjUgNi4xNjQyMSA3LjE2NDIxIDYuNSA2Ljc1IDYuNUM2LjMzNTc5IDYuNSA2IDYuMTY0MjEgNiA1Ljc1QzYgNS4zMzU3OSA2LjMzNTc5IDUgNi43NSA1QzcuMTY0MjEgNSA3LjUgNS4zMzU3OSA3LjUgNS43NVpNNy4yODU3MSA5Ljg0NDM1TDUuNSA3LjUzMzI0TDMgMTAuOTk5OUgxM0w5Ljc4NTcyIDYuMzc3NjlMNy4yODU3MSA5Ljg0NDM1WiIgZmlsbD0iI2NjYyIvPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9ImNsaXAwXzYxNV8yMTgxIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiM0NDQiLz48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=\" width=\"145\" style=\"display: block; float: left; margin: 0px 0.9em 0.9em 0px; width: 31.66%;\">Ne debet assentior qui. Zril salutandi comprehensam an qui, nam no semper temporibus dissentiet, eleifend antiopam evertitur at sed. An wisi efficiendi sit.</p><p><br></p><p>Vel ea mentitum dissentiet, partem saperet accumsan vim ex, meliore repudiare consetetur et has.</p><p><br></p><p>Eu nostrum volutpat maluisset has, per ea homero utamur, ius ut wisi nominati. Sumo denique appareat.</p><p><br></p><p>Inermis vituperatoribus et ius. Aeque tritani eu qui, ne pri euripidis, mandamus reprimique te vix. Ei case atqui sonet vim.</p>",
-        "placeholder": "Double click to edit text"
+        "text": "<p><span style=\"font-size: 18px;\">Lorem ipsum dolor sit amet</span></p><p><br></p><p><img src=\"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfNjE1XzIxODEpIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTE2IDBIMFYxNkgxNlYwWk03LjUgNS43NUM3LjUgNi4xNjQyMSA3LjE2NDIxIDYuNSA2Ljc1IDYuNUM2LjMzNTc5IDYuNSA2IDYuMTY0MjEgNiA1Ljc1QzYgNS4zMzU3OSA2LjMzNTc5IDUgNi43NSA1QzcuMTY0MjEgNSA3LjUgNS4zMzU3OSA3LjUgNS43NVpNNy4yODU3MSA5Ljg0NDM1TDUuNSA3LjUzMzI0TDMgMTAuOTk5OUgxM0w5Ljc4NTcyIDYuMzc3NjlMNy4yODU3MSA5Ljg0NDM1WiIgZmlsbD0iI2NjYyIvPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9ImNsaXAwXzYxNV8yMTgxIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiM0NDQiLz48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=\" data-name=\"svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBjbGlwLXBhdGg9InVybCgjY2xpcDBfNjE1XzIxODEpIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTE2IDBIMFYxNkgxNlYwWk03LjUgNS43NUM3LjUgNi4xNjQyMSA3LjE2NDIxIDYuNSA2Ljc1IDYuNUM2LjMzNTc5IDYuNSA2IDYuMTY0MjEgNiA1Ljc1QzYgNS4zMzU3OSA2LjMzNTc5IDUgNi43NSA1QzcuMTY0MjEgNSA3LjUgNS4zMzU3OSA3LjUgNS43NVpNNy4yODU3MSA5Ljg0NDM1TDUuNSA3LjUzMzI0TDMgMTAuOTk5OUgxM0w5Ljc4NTcyIDYuMzc3NjlMNy4yODU3MSA5Ljg0NDM1WiIgZmlsbD0iI2NjYyIvPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9ImNsaXAwXzYxNV8yMTgxIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiM0NDQiLz48L2NsaXBQYXRoPjwvZGVmcz48L3N2Zz4=\" width=\"145\" style=\"display: block; float: left; margin: 0px 0.9em 0.9em 0px; width: 31.66%;\">Ne debet assentior qui. Zril salutandi comprehensam an qui, nam no semper temporibus dissentiet, eleifend antiopam evertitur at sed. An wisi efficiendi sit.</p><p><br></p><p>Vel ea mentitum dissentiet, partem saperet accumsan vim ex, meliore repudiare consetetur et has.</p><p><br></p><p>Eu nostrum volutpat maluisset has, per ea homero utamur, ius ut wisi nominati. Sumo denique appareat.</p><p><br></p><p>Inermis vituperatoribus et ius. Aeque tritani eu qui, ne pri euripidis, mandamus reprimique te vix. Ei case atqui sonet vim.</p>"
       },
       "id": "widget_57",
       "label": "Text 4"
@@ -3332,6 +3337,46 @@
           "utilityId": "utility_1"
         }
       ]
+    },
+    "widget_67": {
+      "uri": "widgets/common/text/",
+      "version": "1.18.0",
+      "icon": {
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 16 16\"><path fill=\"#000\" fill-rule=\"evenodd\" d=\"M8 1C4.15 1 1 4.15 1 8s3.15 7 7 7 7-3.15 7-7-3.15-7-7-7m1.167 11.667H6.834v-2.334h2.333zm-2.333-4.5V3.333h2.333v4.834z\" clip-rule=\"evenodd\"></path></svg>",
+        "properties": {
+          "filename": "WarningCircleFilled",
+          "color": "",
+          "originalName": "filled/suggested/warning-circle.svg",
+          "path": [
+            "suggestion",
+            "WarningCircleFilled"
+          ],
+          "isUploaded": false,
+          "inlineSvg": true
+        }
+      },
+      "label": "For EX",
+      "config": {
+        "text": "<h5><strong>Facility: </strong><exp data-uniqueid=\"345aad85_8818_77cd_31a2_6f427993f034\" data-dsid=\"dataSource_6-1a039a312ac-layer-91\" data-expression=\"%7B%22name%22%3A%22%7Bfnffacility%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Bfnffacility%7D%22%2C%22dataSourceId%22%3A%22dataSource_6-1a039a312ac-layer-91%22%2C%22jimuFieldName%22%3A%22fnffacility%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{fnffacility}﻿﻿</span>﻿</exp>&nbsp;- <exp data-uniqueid=\"43731407_fb5c_6f6f_f179_478a1c3bc510\" data-dsid=\"dataSource_6-1a039a312ac-layer-91\" data-expression=\"%7B%22name%22%3A%22%7Bincidentid%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Bincidentid%7D%22%2C%22dataSourceId%22%3A%22dataSource_6-1a039a312ac-layer-91%22%2C%22jimuFieldName%22%3A%22incidentid%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{incidentid}﻿﻿</span>﻿</exp>, <strong>ECL: </strong><exp data-uniqueid=\"1315f6fd_a311_df0e_b06e_ae232ffee303\" data-dsid=\"dataSource_6-1a039a312ac-layer-91\" data-expression=\"%7B%22name%22%3A%22%7Becldeclared%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Becldeclared%7D%22%2C%22dataSourceId%22%3A%22dataSource_6-1a039a312ac-layer-91%22%2C%22jimuFieldName%22%3A%22ecldeclared%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{ecldeclared}﻿﻿</span>﻿</exp>, <strong>SEOC AL:</strong> <exp data-uniqueid=\"8224c7a4_40fd_dc28_64ca_14b7f27f7adb\" data-dsid=\"dataSource_6-1a039a312ac-layer-91\" data-expression=\"%7B%22name%22%3A%22%7Bseocactivationlvl%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Bseocactivationlvl%7D%22%2C%22dataSourceId%22%3A%22dataSource_6-1a039a312ac-layer-91%22%2C%22jimuFieldName%22%3A%22seocactivationlvl%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{seocactivationlvl}﻿﻿</span>﻿</exp></h5>",
+        "style": {
+          "wrap": true
+        }
+      },
+      "id": "widget_67",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_6-1a039a312ac-layer-91",
+          "mainDataSourceId": "dataSource_6-1a039a312ac-layer-91",
+          "rootDataSourceId": "dataSource_6",
+          "fields": [
+            "fnffacility",
+            "incidentid",
+            "ecldeclared",
+            "seocactivationlvl"
+          ]
+        }
+      ]
     }
   },
   "customTheme": {
@@ -3511,7 +3556,7 @@
     "backgroundColor": "var(--primary-700)"
   },
   "useAutoSortInFixedLayout": true,
-  "publishTimestamp": 1750648177966,
+  "publishTimestamp": 1787673766747,
   "attributes": {
     "portalUrl": "https://tnema.maps.arcgis.com",
     "favicon": {
@@ -3523,9 +3568,16 @@
         "isUploaded": true,
         "inlineSvg": false
       }
-    }
+    },
+    "isWebTier": false,
+    "clientId": "5Pykj9UAGYURfNuQ",
+    "express": false,
+    "title": "TEMA_WBNP",
+    "description": "WBNP GIS Viewer",
+    "type": "Web Experience",
+    "thumbnail": "thumbnail/thumbnail1773768682570.png"
   },
-  "timestamp": 1787060894159,
+  "timestamp": 1787673676550,
   "sharedThemeVariables": {
     "header": {},
     "body": {},
